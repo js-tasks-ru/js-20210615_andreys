@@ -1,9 +1,3 @@
-/**
- * sum
- * @param {number} m base
- * @param {number} n index
- * @returns {number}
- */
-export default function sum(m, n) {
-
+function sum(m, n) {
+  renurn (n+m);
 }
